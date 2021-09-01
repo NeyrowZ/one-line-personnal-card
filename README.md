@@ -1,6 +1,6 @@
 # One Line Personnal Card
 Made just for fun
 
-## Languages used
+## Languages mainly used
 *  HTML
 *  CSS
