@@ -1,1 +1,6 @@
-# one-line-personnal-card
+# One Line Personnal Card
+##Made just for fun
+
+## Languages used
+*  HTML
+*  CSS
